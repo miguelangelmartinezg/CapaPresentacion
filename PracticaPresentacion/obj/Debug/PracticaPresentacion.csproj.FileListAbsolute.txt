@@ -1,0 +1,12 @@
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.Form1.resources
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.Properties.Resources.resources
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.csproj.GenerateResource.cache
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\EditorTexto.frmEditorTexto.resources
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\M3GPaint.frmPaint.resources
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\bin\Debug\PracticaPresentacion.exe.config
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\bin\Debug\PracticaPresentacion.exe
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\bin\Debug\PracticaPresentacion.pdb
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.exe
+C:\Users\Prueba\source\repos\PracticaPresentacion\PracticaPresentacion\obj\Debug\PracticaPresentacion.pdb
